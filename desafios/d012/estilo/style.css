@@ -39,6 +39,7 @@ header h1 {
 header p {
     padding-bottom: 50px;
     font-weight: normal;
+    font-size: 3vw;
 }
 
 header a, footer a {
